@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * hash_tables_create - creates a hash table
+ * hash_table_create - creates a hash table
  * @size: size of the array
  * Return: a pointer to the newly created table, or NULL
  */
